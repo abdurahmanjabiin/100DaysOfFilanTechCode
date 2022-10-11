@@ -11,5 +11,9 @@ Link to work: [Cat Photo App](https://github.com/abdurahmanjabiin/100DaysOfFilan
 ### Day 2 : 8 oct 2022
 
 Todays progress i finished the book  HTML & CSS book by Jon Duckett, also i practiced css by building cafe menu with the help of [freecodecamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/) the link of the cafe menu is [cafe menu](https://github.com/abdurahmanjabiin/100DaysOfFilanTechCode/blob/maan/HTML_CSS/cafe.css)
-=======
+
+
+### Day 3: 9 0ct 2022
+
+more css practince in [freecodecamp](https://www.freecodecamp.org/learn) i did the c
 
