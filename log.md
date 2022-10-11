@@ -15,5 +15,5 @@ Todays progress i finished the book  HTML & CSS book by Jon Duckett, also i prac
 
 ### Day 3: 9 0ct 2022
 
-more css practince in [freecodecamp](https://www.freecodecamp.org/learn) i did the c
+more css practince in [freecodecamp](https://www.freecodecamp.org/learn) i did the learn css color by making a set of color makers here how it end up  [color maker css](https://github.com/abdurahmanjabiin/100DaysOfFilanTechCode/blob/main/HTML_CSS/colormakers.html)
 
